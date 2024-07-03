@@ -11,7 +11,7 @@ if ("Satyam") {
 }
 
 
-if (5 == -5) {
+if (typeof 5 == number) {
     console.log("sahi hai");
   } else {
     console.log("galat hai");
